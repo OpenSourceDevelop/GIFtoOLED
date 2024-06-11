@@ -1,5 +1,6 @@
-/*! 
+/** 
  *  \brief     OLED_C-Array Test 
+ *  \file      OLED_C-Array.ino
  *  \details   A Gif converter to write the frames into a C array for monochrome OLED displays with grayscale.
  *  \author    OpenDev 📧 https://github.com/OpenSourceDevelop
  *  \version   see #define SWVERSION
