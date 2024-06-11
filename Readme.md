@@ -1,3 +1,33 @@
+# OLED_C-Array
+
+## Details
+A Gif converter to write the frames into a C array for monochrome OLED displays with grayscale.
+
+## File
+`OLED_C-Array.ino`
+
+## Author
+OpenDev 📧 [GitHub Profile](https://github.com/OpenSourceDevelop)
+
+## Version
+See `#define SWVERSION`
+
+## Date
+05.05.2024
+
+## Bug
+*None reported*
+
+## License
+Free
+
+## Note
+Adafruit_SSD1306 Library: [Adafruit_SSD1306](https://github.com/adafruit/Adafruit_SSD1306)
+
+## IO
+| Signal | MCU |
+|--------|-----|
+|  I2C   | I2C |
 
 ## Usage
 
@@ -9,24 +39,12 @@
 
 ## Example
 
-A Gif converter to write the frames into a C array for monochrome OLED displays with grayscale.
+The Gif converter performs the following steps:
 
-Extracts the frames from the selected GIF file.
-Converts the individual images to grayscale.
-Converts the grayscale images into a C array.
-Determines the frame rate (FPS) of the GIF.
-Writes the result to a header file.
+1. Extracts the frames from the selected GIF file.
+2. Converts the individual images to grayscale.
+3. Converts the grayscale images into a C array.
+4. Determines the frame rate (FPS) of the GIF.
+5. Writes the result to a header file.
 
-Example for Arduino included.
-
-## Author
-
-OpenDev
-
-## Version
-
-1.0
-
-## License
-
-Free
+An example for Arduino is included.
