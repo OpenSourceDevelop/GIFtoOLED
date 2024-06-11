@@ -3,20 +3,15 @@
  *  \details   Shows the C-Array on a OLED Display with an Animation
  *  \author    OpenDev 📧 https://github.com/OpenSourceDevelop
  *  \version   see #define SWVERSION
- *  \date      10.06.2024
+ *  \date      05.05.2024
  *  \bug       
  *  \warning   
  *  \copyright Free 
  * 
- *  CONTROLLER: ESP32 / WEMOS D1 MINI ESP32
+ *  CONTROLLER: Adafruit_SSD1306   https://github.com/adafruit/Adafruit_SSD1306
  *
  *  IO:
- *                        IRin   ==>  15
- *                        IRout  <==  4
- *                        Button ==>  32
- *                        LEDw   <==  0
- * 
- *    https://github.com/mdminhazulhaque/esp32-mqtt-ir-remote/tree/master
+ *       I2C  
  */
 
 #include <Adafruit_GFX.h>
