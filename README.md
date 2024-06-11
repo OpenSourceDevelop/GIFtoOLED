@@ -1,6 +1,6 @@
 # OLED_C-Array
 
-[![Build Status](https://github.com/OpenSourceDevelop/GIFtoOLED?branch=master)](https://github.com/OpenSourceDevelop)
+[![Build Status](https://github.com/OpenSourceDevelop/GIFtoOLED?branch=main)](https://github.com/OpenSourceDevelop)
 
 ## Details
 A Gif converter to write the frames into a C array for monochrome OLED displays with grayscale.
