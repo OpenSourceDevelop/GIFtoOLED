@@ -1,18 +1,19 @@
-/** 
- *  \brief     OLED_C-Array Test 
- *  \file      OLED_C-Array.ino
- *  \details   A Gif converter to write the frames into a C array for monochrome OLED displays with grayscale.
- *  \author    OpenDev 📧 https://github.com/OpenSourceDevelop
- *  \version   see #define SWVERSION
- *  \date      05.05.2024
- *  \bug       
- *  \warning   
- *  \copyright Free 
+/**
+ * @brief     OLED_C-Array
+ * @details   A Gif converter to write the frames into a C array for monochrome OLED displays with grayscale.
+ * @file      OLED_C-Array.ino
+ * @author    OpenDev 📧 https://github.com/OpenSourceDevelop
+ * @version   see #define SWVERSION
+ * @date      05.05.2024
+ * @bug          
+ * @copyright Free 
  * 
- *  CONTROLLER: Adafruit_SSD1306   https://github.com/adafruit/Adafruit_SSD1306
+ * @note Adafruit_SSD1306  https://github.com/adafruit/Adafruit_SSD1306
  *
- *  IO:
- *       I2C  
+ * @par IO:
+ * | Signal | MCU |
+ * |--------|-----|
+ * |  I2C   | I2C |
  */
 
 #include <Adafruit_GFX.h>
