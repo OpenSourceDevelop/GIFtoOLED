@@ -1,5 +1,6 @@
 # OLED_C-Array
 
+[![Build Status](https://cdn.prod.website-files.com/5e0f1144930a8bc8aace526c/65dd9eb5aaca434fac4f1c7c_Build-Passing-brightgreen.svg)]()
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/OpenSourceDevelop)
 [![Unlicense](https://img.shields.io/badge/License-Unlicense-blue.svg)](https://unlicense.org/)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
@@ -12,7 +13,6 @@ A Gif converter to write the frames into a C array for monochrome OLED displays 
 
 ## Author
 OpenDev 📧 [GitHub Profile](https://github.com/OpenSourceDevelop) 
-[![GitHub Profile !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/OpenSourceDevelop)
 
 ## Version
 See `#define SWVERSION`
