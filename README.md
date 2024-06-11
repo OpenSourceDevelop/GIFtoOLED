@@ -11,7 +11,8 @@ A Gif converter to write the frames into a C array for monochrome OLED displays 
 `OLED_C-Array.ino`
 
 ## Author
-OpenDev 📧 [GitHub Profile](https://github.com/OpenSourceDevelop)
+OpenDev 📧 [GitHub Profile](https://github.com/OpenSourceDevelop) 
+[![GitHub Profile !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/OpenSourceDevelop)
 
 ## Version
 See `#define SWVERSION`
