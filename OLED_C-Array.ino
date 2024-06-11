@@ -1,6 +1,6 @@
 /*! 
  *  \brief     OLED_C-Array Test 
- *  \details   Shows the C-Array on a OLED Display with an Animation
+ *  \details   A Gif converter to write the frames into a C array for monochrome OLED displays with grayscale.
  *  \author    OpenDev 📧 https://github.com/OpenSourceDevelop
  *  \version   see #define SWVERSION
  *  \date      05.05.2024
